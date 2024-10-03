@@ -1,6 +1,6 @@
 # JEP 477: Implicitly Declared Classes and Instance Main Methods (Third Preview) 
 
-Es el tercero de una serie de JEP's, que persiguen reducir la ceremonia de escribir programas simples en Java y permitirle a los programadores juniors introducirse a conceptos de programación de manera gradual.
+Es el tercer preview de esta serie de JEP's, que persiguen reducir la ceremonia de escribir programas simples en Java y permitirle a los programadores juniors introducirse a conceptos de programación de manera gradual.
 
 - [JEP 445: Unnamed Classes and Instance Main Methods (Preview)](https://openjdk.org/jeps/445)
 - [JEP 463: Implicitly Declared Classes and Instance Main Methods (Second Preview)](https://openjdk.org/jeps/463)
